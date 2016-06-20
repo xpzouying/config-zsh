@@ -14,3 +14,10 @@ cat ~/.bash_profile
     eval "$(gdircolors ~/.dircolors-solarized)"
     alias ls='gls --color=auto'
 
+
+
+
+### Other utils
+- DNS:
+    https://github.com/shadowsocks/ChinaDNS
+
